@@ -11,4 +11,4 @@ Steps:
 
 4 And you're done! Give it a try and enjoy an elevated Roblox experience!
 
-5 By the way, remember to disable Windows Defender when using it, as it may falsely detect it as a virus. also whitelist the zip file on windows defender as you may get errors.
+5 By the way, remember to disable Windows Defender when using it, as it may falsely detect it as a virus. also whitelist the zip file on windows defender as you may get errors. 
